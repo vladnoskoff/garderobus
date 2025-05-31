@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2
+psycopg2-binary
+pydantic
+passlib
+bcrypt
+pyjwt
+requests
+openai
+python-dotenv
+
+
+fastapi uvicorn sqlalchemy psycopg2 psycopg2-binary pydantic passlib bcrypt pyjwt requests openai python-dotenv
